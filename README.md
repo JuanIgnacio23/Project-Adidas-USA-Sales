@@ -1,7 +1,7 @@
 # Project-Adidas-sales
  The Covid-19 pandemic led to economic depression but also spurred new sales methods and shifts in consumption. This project examines Adidas customers' consumption changes during the pandemic. The results will aid in analyzing the company's future market strategies and plans for expanding information and projecting sales.
 
-# Descriptcion
+# Description
 This work conducts a descriptive operational analysis of data using interactive dashboards from the selected database. It is aimed at an audience capable of interacting with the dashboard and drawing their own conclusions. It presents projected economic indicators based on sales levels during specific periods and displays the distribution of sales by geography, sales channels, and the types and proportions of products sold.
 
 # Base de datos
