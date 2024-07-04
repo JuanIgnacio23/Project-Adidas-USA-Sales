@@ -4,6 +4,10 @@
 # Base de datos
 The database contains information on Adidas sales during the period 2020-2021 with respect to the number of sales, their economic returns, geographical distribution spaces, and marketing methods used.
 
+# Tool used
+Excel was used for data filtering, and Tableau was used for projecting the obtained information.
+Database source:  https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
+
 # Objetive
 In this work, a descriptive operational analysis of the obtained data was conducted, targeting an audience that can interact with the dashboard and draw their own conclusions. It displays economic indicators projected from sales levels during specific periods and shows the distribution of sales by geography, sales channels, and the types and proportions of products sold.
 
@@ -27,6 +31,9 @@ Sales below average: A calculated field representing sales below the average, co
 Show more: A parameter allowing the user to choose to view the chart with detailed information.
 
 Dimensions: A parameter representing analysis dimensions in the bar chart.
+
+# Work Development:
+An individual analysis of variables was conducted to address the objective questions, each on separate worksheets. Then, two descriptive and interactive dashboards were created to guide the target audience in drawing their own conclusions.
 
 # Conclusions
 There were fewer sales of female products compared to male products during the analyzed 2020-2021 period. Specifically, the least sold product was women's athletic footwear.
