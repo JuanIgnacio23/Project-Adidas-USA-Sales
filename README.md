@@ -1,6 +1,9 @@
 # Project-Adidas-sales
  The Covid-19 pandemic led to economic depression but also spurred new sales methods and shifts in consumption. This project examines Adidas customers' consumption changes during the pandemic. The results will aid in analyzing the company's future market strategies and plans for expanding information and projecting sales.
 
+# Descriptcion
+This work conducts a descriptive operational analysis of data using interactive dashboards from the selected database. It is aimed at an audience capable of interacting with the dashboard and drawing their own conclusions. It presents projected economic indicators based on sales levels during specific periods and displays the distribution of sales by geography, sales channels, and the types and proportions of products sold.
+
 # Base de datos
 The database contains information on Adidas sales during the period 2020-2021 with respect to the number of sales, their economic returns, geographical distribution spaces, and marketing methods used.
 
@@ -9,7 +12,7 @@ Excel was used for data filtering, and Tableau was used for projecting the obtai
 Database source:  https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 
 # Objetive
-In this work, a descriptive operational analysis of the obtained data was conducted, targeting an audience that can interact with the dashboard and draw their own conclusions. It displays economic indicators projected from sales levels during specific periods and shows the distribution of sales by geography, sales channels, and the types and proportions of products sold.
+Analyze the sales of the Adidas company between the periods 2020-2021, seeking to observe the evolution of sales, determine the changes in market preferences and consumption, as well as the present and future problems, advantages and disadvantages of the company's sales area. 
 
 # Detail of the created tables (calculated fields, parameters, sets)
 Category (by gender): A calculated field representing the number of sales by gender, dividing products into female and male categories.
